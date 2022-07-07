@@ -1,3 +1,12 @@
+# Written by Nathan Spencer
+
+# This simple library provides a basic getting started approach to
+# web scraping dynamic websites with Selenium and BeautifulSoup.
+#
+
+###################################################
+# Imports
+#
 # webdriver main functionality
 from selenium import webdriver # pip install selenium
 from selenium.webdriver.chrome.options import Options
@@ -6,6 +15,8 @@ from webdriver_manager.chrome import ChromeDriverManager # pip install webdriver
 
 # additional imports
 from bs4 import BeautifulSoup # pip install bs4
+#
+###################################################
 
 
 # Enables scraping of dynamic websites using selenium

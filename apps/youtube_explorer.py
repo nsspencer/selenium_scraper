@@ -1,3 +1,9 @@
+# Written By Nathan Spencer
+
+# This demo app shows the SeleniumScraper libraries utility by scraping the 
+# explore feed from youtube.com
+#
+
 from selenium.webdriver.common.by import By
 import time
 import sys

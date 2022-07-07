@@ -1,5 +1,5 @@
-# selenium_scraper
-A webscraping api for dynamic websites
+# Python Selenium Web Scraping With BeautifulSoup
+A simple webscraping api for handling dynamic websites
 
 To install requirements, run this command:
 ```

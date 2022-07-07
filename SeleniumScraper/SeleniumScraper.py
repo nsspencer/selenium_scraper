@@ -42,7 +42,7 @@ class SeleniumScraper:
         return soup
 
 
-# client test code
+# test code
 if __name__ == "__main__":
     driver = SeleniumScraper()
     driver.get("https://pypi.org/project/selenium/")
